@@ -64,7 +64,7 @@ seguir la guia de dortania link: https://dortania.github.io/OpenCore-Install-Gui
 -  Pantalla tactil.
 -  Salida HDMI.
 -  Graficos 2048 mb 
--  Puertos usb tipa y tipo C.
+-  Puertos usb tipo A y tipo C.
 -  Dormir.
 -  Apagado.
 -  Teclado.
